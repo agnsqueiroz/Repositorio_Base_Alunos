@@ -1,0 +1,2 @@
+Nome: gloss, Valor: R$50.0, Quantidade: 600
+Nome: Àgua, Valor: R$4.0, Quantidade: 3
