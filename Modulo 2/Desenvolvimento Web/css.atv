@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Menu Simples</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  nav {
+    background-color: #333;
+  }
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  nav ul li {
+    margin: 0;
+  }
+  nav ul li a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  nav ul li a:hover {
+    background-color: #555;
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <ul>
+    <li><a href="#">Início</a></li>
+    <li><a href="#">Sobre</a></li>
+    <li><a href="#">Serviços</a></li>
+    <li><a href="#">Contato</a></li>
+  </ul>
+</nav>
+
+</body>
+</html>
